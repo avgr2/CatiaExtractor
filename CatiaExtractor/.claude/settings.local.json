@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Users\\\\arthu\\\\OneDrive\\\\Desktop\\\\CatiaAPI\\\\\" -Recurse -Directory | Where-Object { $_.Name -notmatch '^obj$|^bin$|^\\\\.git$' })",
+      "Bash(dotnet build *)",
+      "Bash(dotnet run *)",
+      "Bash(grep -A 40 \"^┌─── Sketch$\")",
+      "Bash(dotnet-script)",
+      "Bash(powershell -Command ' *)",
+      "Bash(powershell *)",
+      "Bash(grep -iE \"^[A-Z]{3,8}ITF\\\\.dll$\")",
+      "Bash(xargs '-I{}' powershell -command 'try { $a=[System.Reflection.Assembly]::LoadFile\\('\\\\''{}'\\\\''\\); if \\($a.GetTypes\\(\\) | Where {$_.Name -eq '\\\\''HybridShapePlaneOffset'\\\\''}\\) { Write-Host '\\\\''FOUND IN: {}'\\\\'' } } catch {}')",
+      "Bash(npm create *)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\arthu\\\\OneDrive\\\\Desktop\\\\CatiaAPI\" -Recurse | Where-Object { !$_.PSIsContainer } | Select-Object FullName | Format-List)",
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\arthu\\\\OneDrive\\\\Desktop\\\\CatiaViewer\" -Recurse | Where-Object { !$_.PSIsContainer } | Select-Object FullName | Format-List)"
+    ]
+  }
+}
