@@ -1,0 +1,753 @@
+{
+  "Nom": "Part1",
+  "Fichier": "Connecting rod part.CATPart",
+  "Dimensions": {
+    "Part1\\PartBody\\Pad.1\\FirstLimit\\Length": 10,
+    "Part1\\PartBody\\Pad.1\\SecondLimit\\Length": 10,
+    "Part1\\PartBody\\Pad.1\\Sketch.1\\Radius.1\\Radius": 95,
+    "Part1\\PartBody\\Pad.1\\Sketch.1\\Radius.2\\Radius": 8,
+    "Part1\\PartBody\\Pad.1\\Sketch.1\\Radius.20\\Radius": 27,
+    "Part1\\PartBody\\Pad.1\\Sketch.1\\Radius.21\\Radius": 36,
+    "Part1\\PartBody\\Pad.1\\Sketch.1\\Offset.22\\Offset": 2012,
+    "Part1\\PartBody\\Pad.1\\ThickThin1": 1,
+    "Part1\\PartBody\\Pad.1\\ThickThin2": 0,
+    "Part1\\PartBody\\Pad.3\\FirstLimit\\Length": 6,
+    "Part1\\PartBody\\Pad.3\\SecondLimit\\Length": 6,
+    "Part1\\PartBody\\Pad.3\\Sketch.2\\Angle.64\\Angle": 6,
+    "Part1\\PartBody\\Pad.3\\ThickThin1": 1,
+    "Part1\\PartBody\\Pad.3\\ThickThin2": 0,
+    "Part1\\PartBody\\Pocket.3\\FirstLimit\\Depth": 4,
+    "Part1\\PartBody\\Pocket.3\\SecondLimit\\Depth": 0,
+    "Part1\\PartBody\\Pocket.3\\Sketch.5\\Radius.71\\Radius": 8,
+    "Part1\\PartBody\\Pocket.3\\Sketch.5\\Radius.72\\Radius": 8,
+    "Part1\\PartBody\\Pocket.3\\Sketch.5\\Offset.73\\Offset": 90,
+    "Part1\\PartBody\\Pocket.3\\Sketch.5\\Offset.74\\Offset": 556,
+    "Part1\\PartBody\\Pocket.3\\ThickThin1": 1,
+    "Part1\\PartBody\\Pocket.3\\ThickThin2": 0,
+    "Part1\\PartBody\\EdgeFillet.4\\CstEdgeRibbon.15\\Radius": 1,
+    "Part1\\PartBody\\Plane.1\\Offset": 30,
+    "Part1\\PartBody\\Pad.4\\FirstLimit\\Length": 30,
+    "Part1\\PartBody\\Pad.4\\SecondLimit\\Length": 0,
+    "Part1\\PartBody\\Pad.4\\ThickThin1": 1,
+    "Part1\\PartBody\\Pad.4\\ThickThin2": 0,
+    "Part1\\PartBody\\Pad.4\\Sketch.6\\Offset.92\\Offset": 7,
+    "Part1\\PartBody\\Pad.4\\Sketch.6\\Offset.94\\Offset": 76,
+    "Part1\\PartBody\\Pocket.5\\FirstLimit\\Depth": 30,
+    "Part1\\PartBody\\Pocket.5\\SecondLimit\\Depth": 0,
+    "Part1\\PartBody\\Pocket.5\\ThickThin1": 1,
+    "Part1\\PartBody\\Pocket.5\\ThickThin2": 0,
+    "Part1\\PartBody\\Pocket.6\\FirstLimit\\Depth": 30,
+    "Part1\\PartBody\\Pocket.6\\SecondLimit\\Depth": 0,
+    "Part1\\PartBody\\Pocket.6\\Sketch.8\\Radius.98\\Radius": 35,
+    "Part1\\PartBody\\Pocket.6\\Sketch.8\\Radius.99\\Radius": 35,
+    "Part1\\PartBody\\Pocket.6\\ThickThin1": 1,
+    "Part1\\PartBody\\Pocket.6\\ThickThin2": 0,
+    "Part1\\PartBody\\EdgeFillet.6\\CstEdgeRibbon.27\\Radius": 3,
+    "Part1\\PartBody\\EdgeFillet.7\\CstEdgeRibbon.31\\Radius": 3,
+    "Part1\\PartBody\\EdgeFillet.8\\CstEdgeRibbon.33\\Radius": 20,
+    "Part1\\PartBody\\EdgeFillet.9\\CstEdgeRibbon.35\\Radius": 2,
+    "PartBody\\DS Yellow\\SAMIsotropicMaterial.1\\Poisson Ratio": 266
+  },
+  "Features": [
+    {
+      "Ordre": 1,
+      "Type": "Sketch",
+      "Nom": "Sketch.1",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": 0,
+          "OrigineZ": 0,
+          "AxeXx": 1,
+          "AxeXy": 0,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": 1,
+          "AxeYz": 0
+        },
+        "Cercles": [
+          {
+            "CentreX": 0,
+            "CentreY": 0,
+            "Rayon": 9.5,
+            "EstConstruction": false
+          },
+          {
+            "CentreX": 0,
+            "CentreY": 0,
+            "Rayon": 8,
+            "EstConstruction": false
+          },
+          {
+            "CentreX": 0,
+            "CentreY": -201.2,
+            "Rayon": 27,
+            "EstConstruction": false
+          },
+          {
+            "CentreX": 0,
+            "CentreY": -201.2,
+            "Rayon": 36,
+            "EstConstruction": false
+          }
+        ],
+        "Lignes": [
+          {
+            "X1": -27.000000000000025,
+            "Y1": -201.2,
+            "X2": -36.00000000000003,
+            "Y2": -201.20000000000002,
+            "EstConstruction": false
+          },
+          {
+            "X1": 27,
+            "Y1": -201.2,
+            "X2": 36,
+            "Y2": -201.2,
+            "EstConstruction": false
+          }
+        ],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 201.2
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 9.5
+          },
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 8
+          },
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 27
+          },
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 36
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 2,
+      "Type": "Pad",
+      "Nom": "Pad.1",
+      "SketchReferences": [
+        "Sketch.1"
+      ],
+      "Parametres": {
+        "longueur": 10,
+        "longueur_seconde": 10,
+        "direction_x": 0,
+        "direction_y": 0,
+        "direction_z": 1,
+        "direction_orientation": 0,
+        "direction_type": 0,
+        "est_symetrique": 1
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 3,
+      "Type": "Sketch",
+      "Nom": "Sketch.2",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": 0,
+          "OrigineZ": 0,
+          "AxeXx": 1,
+          "AxeXy": 0,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": 1,
+          "AxeYz": 0
+        },
+        "Cercles": [],
+        "Lignes": [
+          {
+            "X1": 9.08861286919574,
+            "Y1": -2.7653419524336584,
+            "X2": 17.849697212588644,
+            "Y2": -169.93678984143014,
+            "EstConstruction": false
+          },
+          {
+            "X1": -9.08861286919574,
+            "Y1": -2.7653419524336584,
+            "X2": -17.849697212588644,
+            "Y2": -169.93678984143014,
+            "EstConstruction": false
+          }
+        ],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeAngle",
+            "Valeur": 6
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 4,
+      "Type": "Pad",
+      "Nom": "Pad.3",
+      "SketchReferences": [
+        "Sketch.2"
+      ],
+      "Parametres": {
+        "longueur": 6,
+        "longueur_seconde": 6,
+        "direction_x": 0,
+        "direction_y": 0,
+        "direction_z": 1,
+        "direction_orientation": 0,
+        "direction_type": 0,
+        "est_symetrique": 1
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 5,
+      "Type": "Sketch",
+      "Nom": "Sketch.5",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": 0,
+          "OrigineZ": -6,
+          "AxeXx": 1,
+          "AxeXy": 0,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": 1,
+          "AxeYz": 0
+        },
+        "Cercles": [
+          {
+            "CentreX": 0,
+            "CentreY": -55.6,
+            "Rayon": 8,
+            "EstConstruction": false
+          },
+          {
+            "CentreX": 0,
+            "CentreY": -145.6,
+            "Rayon": 8,
+            "EstConstruction": false
+          }
+        ],
+        "Lignes": [
+          {
+            "X1": 7.999999999999998,
+            "Y1": -55.6,
+            "X2": 7.999999999999999,
+            "Y2": -145.6,
+            "EstConstruction": false
+          },
+          {
+            "X1": -7.999999999999998,
+            "Y1": -55.6,
+            "X2": -7.999999999999999,
+            "Y2": -145.6,
+            "EstConstruction": false
+          }
+        ],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeTangency",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 55.6
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeTangency",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 90
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 8
+          },
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 8
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 6,
+      "Type": "Pocket",
+      "Nom": "Pocket.3",
+      "SketchReferences": [
+        "Sketch.5"
+      ],
+      "Parametres": {
+        "profondeur": 4,
+        "profondeur_seconde": 0,
+        "direction_x": -0,
+        "direction_y": -0,
+        "direction_z": -1,
+        "direction_orientation": 1,
+        "direction_type": 0,
+        "est_symetrique": 0
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 7,
+      "Type": "Mirror",
+      "Nom": "Mirror.2",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {
+        "plan_symetrie": "#XY",
+        "element_source_probable": "Pocket.3"
+      },
+      "Geometrie": null
+    },
+    {
+      "Ordre": 8,
+      "Type": "EdgeFillet",
+      "Nom": "EdgeFillet.4",
+      "SketchReferences": [],
+      "Parametres": {
+        "rayon": 1
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 9,
+      "Type": "Sketch",
+      "Nom": "Sketch.6",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": -171.2,
+          "OrigineZ": 0,
+          "AxeXx": -1,
+          "AxeXy": 0,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": 0,
+          "AxeYz": 1
+        },
+        "Cercles": [
+          {
+            "CentreX": 38,
+            "CentreY": 0,
+            "Rayon": 7,
+            "EstConstruction": false
+          },
+          {
+            "CentreX": -38,
+            "CentreY": 0,
+            "Rayon": 7,
+            "EstConstruction": false
+          }
+        ],
+        "Lignes": [
+          {
+            "X1": -38,
+            "Y1": 0,
+            "X2": 38,
+            "Y2": 0,
+            "EstConstruction": true
+          },
+          {
+            "X1": -38,
+            "Y1": 7,
+            "X2": 38,
+            "Y2": 7,
+            "EstConstruction": false
+          },
+          {
+            "X1": 38,
+            "Y1": -7.000000000000008,
+            "X2": -38,
+            "Y2": -7.000000000000003,
+            "EstConstruction": false
+          }
+        ],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeTangency",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeTangency",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeTangency",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeTangency",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 7
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 76
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 10,
+      "Type": "Pad",
+      "Nom": "Pad.4",
+      "SketchReferences": [
+        "Sketch.6"
+      ],
+      "Parametres": {
+        "longueur": 30,
+        "longueur_seconde": 0,
+        "direction_x": -0,
+        "direction_y": -1,
+        "direction_z": 0,
+        "direction_orientation": 1,
+        "direction_type": 0,
+        "est_symetrique": 0
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 11,
+      "Type": "Sketch",
+      "Nom": "Sketch.7",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": 0,
+          "OrigineZ": -7.000000000000004,
+          "AxeXx": 1,
+          "AxeXy": 0,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": -1,
+          "AxeYz": 0
+        },
+        "Cercles": [],
+        "Lignes": [],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": []
+      }
+    },
+    {
+      "Ordre": 12,
+      "Type": "Pocket",
+      "Nom": "Pocket.5",
+      "SketchReferences": [
+        "Sketch.7"
+      ],
+      "Parametres": {
+        "profondeur": 30,
+        "profondeur_seconde": 0,
+        "direction_x": -0,
+        "direction_y": -0,
+        "direction_z": 1,
+        "direction_orientation": 1,
+        "direction_type": 0,
+        "est_symetrique": 0
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 13,
+      "Type": "Sketch",
+      "Nom": "Sketch.8",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": -201.2,
+          "OrigineZ": 0,
+          "AxeXx": 1,
+          "AxeXy": 0,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": 0,
+          "AxeYz": 1
+        },
+        "Cercles": [
+          {
+            "CentreX": 38,
+            "CentreY": 0,
+            "Rayon": 3.5,
+            "EstConstruction": false
+          },
+          {
+            "CentreX": -38,
+            "CentreY": 0,
+            "Rayon": 3.5,
+            "EstConstruction": false
+          }
+        ],
+        "Lignes": [],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeConcentricity",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeConcentricity",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 3.5
+          },
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 3.5
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 14,
+      "Type": "Pocket",
+      "Nom": "Pocket.6",
+      "SketchReferences": [
+        "Sketch.8"
+      ],
+      "Parametres": {
+        "profondeur": 30,
+        "profondeur_seconde": 0,
+        "direction_x": -0,
+        "direction_y": 1,
+        "direction_z": -0,
+        "direction_orientation": 1,
+        "direction_type": 0,
+        "est_symetrique": 0
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 15,
+      "Type": "EdgeFillet",
+      "Nom": "EdgeFillet.6",
+      "SketchReferences": [],
+      "Parametres": {
+        "rayon": 3
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 16,
+      "Type": "EdgeFillet",
+      "Nom": "EdgeFillet.7",
+      "SketchReferences": [],
+      "Parametres": {
+        "rayon": 3
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 17,
+      "Type": "EdgeFillet",
+      "Nom": "EdgeFillet.8",
+      "SketchReferences": [],
+      "Parametres": {
+        "rayon": 20
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 18,
+      "Type": "EdgeFillet",
+      "Nom": "EdgeFillet.9",
+      "SketchReferences": [],
+      "Parametres": {
+        "rayon": 2
+      },
+      "Refs": {},
+      "Geometrie": null
+    }
+  ],
+  "Plans": [
+    {
+      "Nom": "Plane.1",
+      "Type": "HybridShapePlaneOffset",
+      "Offset": 30,
+      "ElementReference": null
+    }
+  ],
+  "Relations": []
+}

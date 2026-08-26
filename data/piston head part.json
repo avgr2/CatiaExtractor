@@ -1,0 +1,960 @@
+{
+  "Nom": "piston head",
+  "Fichier": "piston head part.CATPart",
+  "Dimensions": {
+    "piston head\\PartBody\\Pad.1\\FirstLimit\\Length": 55,
+    "piston head\\PartBody\\Pad.1\\SecondLimit\\Length": 0,
+    "piston head\\PartBody\\Pad.1\\Sketch.1\\Radius.3\\Radius": 43,
+    "piston head\\PartBody\\Pad.1\\ThickThin1": 1,
+    "piston head\\PartBody\\Pad.1\\ThickThin2": 0,
+    "piston head\\PartBody\\Groove.1\\FirstAngle": 360,
+    "piston head\\PartBody\\Groove.1\\SecondAngle": 0,
+    "piston head\\PartBody\\Groove.1\\Sketch.2\\Offset.8\\Offset": 43,
+    "piston head\\PartBody\\Groove.1\\Sketch.2\\Offset.9\\Offset": 41,
+    "piston head\\PartBody\\Groove.1\\Sketch.2\\Offset.10\\Offset": 15,
+    "piston head\\PartBody\\Groove.1\\Sketch.2\\Offset.11\\Offset": 15,
+    "piston head\\PartBody\\Groove.1\\Sketch.2\\Offset.18\\Offset": 15,
+    "piston head\\PartBody\\Groove.1\\Sketch.2\\Offset.19\\Offset": 3,
+    "piston head\\PartBody\\Groove.1\\Sketch.2\\Length.80\\Length": 15,
+    "piston head\\PartBody\\Groove.1\\Sketch.2\\Offset.81\\Offset": 2,
+    "piston head\\PartBody\\Groove.1\\ThickThin1": 1,
+    "piston head\\PartBody\\Groove.1\\ThickThin2": 0,
+    "piston head\\PartBody\\Pocket.2\\FirstLimit\\Depth": 25,
+    "piston head\\PartBody\\Pocket.2\\SecondLimit\\Depth": 0,
+    "piston head\\PartBody\\Pocket.2\\Sketch.5\\Offset.33\\Offset": 30,
+    "piston head\\PartBody\\Pocket.2\\Sketch.5\\Radius.36\\Radius": 375,
+    "piston head\\PartBody\\Pocket.2\\Sketch.5\\Offset.45\\Offset": 5,
+    "piston head\\PartBody\\Pocket.2\\Sketch.5\\Radius.60\\Radius": 43,
+    "piston head\\PartBody\\Pocket.2\\ThickThin1": 1,
+    "piston head\\PartBody\\Pocket.2\\ThickThin2": 0,
+    "piston head\\PartBody\\EdgeFillet.1\\CstEdgeRibbon.2\\Radius": 3,
+    "piston head\\PartBody\\EdgeFillet.3\\CstEdgeRibbon.16\\Radius": 3,
+    "piston head\\PartBody\\Pocket.3\\FirstLimit\\Depth": 25,
+    "piston head\\PartBody\\Pocket.3\\SecondLimit\\Depth": 0,
+    "piston head\\PartBody\\Pocket.3\\Sketch.6\\Radius.62\\Radius": 36,
+    "piston head\\PartBody\\Pocket.3\\Sketch.6\\Offset.66\\Offset": 25,
+    "piston head\\PartBody\\Pocket.3\\ThickThin1": 1,
+    "piston head\\PartBody\\Pocket.3\\ThickThin2": 0,
+    "piston head\\PartBody\\EdgeFillet.4\\CstEdgeRibbon.17\\Radius": 6,
+    "piston head\\PartBody\\Pocket.4\\FirstLimit\\Offset": 0,
+    "piston head\\PartBody\\Pocket.4\\SecondLimit\\Depth": 0,
+    "piston head\\PartBody\\Pocket.4\\Sketch.7\\Offset.72\\Offset": 13,
+    "piston head\\PartBody\\Pocket.4\\Sketch.7\\Radius.73\\Radius": 8,
+    "piston head\\PartBody\\Pocket.4\\ThickThin1": 1,
+    "piston head\\PartBody\\Pocket.4\\ThickThin2": 0,
+    "piston head\\PartBody\\Chamfer.1\\ChamferRibbon.1\\Length1": 5,
+    "piston head\\PartBody\\Chamfer.1\\ChamferRibbon.1\\Angle": 45,
+    "piston head\\PartBody\\Chamfer.2\\ChamferRibbon.3\\Length1": 5,
+    "piston head\\PartBody\\Chamfer.2\\ChamferRibbon.3\\Angle": 45,
+    "piston head\\PartBody\\Pocket.7\\FirstLimit\\Depth": 50,
+    "piston head\\PartBody\\Pocket.7\\SecondLimit\\Depth": 50,
+    "piston head\\PartBody\\Pocket.7\\Sketch.10\\Angle.94\\Angle": 75,
+    "piston head\\PartBody\\Pocket.7\\ThickThin1": 1,
+    "piston head\\PartBody\\Pocket.7\\ThickThin2": 0,
+    "piston head\\PartBody\\Chamfer.4\\ChamferRibbon.6\\Length1": 10,
+    "piston head\\PartBody\\Chamfer.4\\ChamferRibbon.6\\Angle": 8,
+    "piston head\\PartBody\\Pocket.8\\FirstLimit\\Depth": 60,
+    "piston head\\PartBody\\Pocket.8\\SecondLimit\\Depth": -495,
+    "piston head\\PartBody\\Pocket.8\\Sketch.11\\Radius.99\\Radius": 125,
+    "piston head\\PartBody\\Pocket.8\\ThickThin1": 1,
+    "piston head\\PartBody\\Pocket.8\\ThickThin2": 0
+  },
+  "Features": [
+    {
+      "Ordre": 1,
+      "Type": "Sketch",
+      "Nom": "Sketch.1",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": 0,
+          "OrigineZ": 0,
+          "AxeXx": 1,
+          "AxeXy": 0,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": 1,
+          "AxeYz": 0
+        },
+        "Cercles": [
+          {
+            "CentreX": 0,
+            "CentreY": 0,
+            "Rayon": 43,
+            "EstConstruction": false
+          }
+        ],
+        "Lignes": [],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 43
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 2,
+      "Type": "Pad",
+      "Nom": "Pad.1",
+      "SketchReferences": [
+        "Sketch.1"
+      ],
+      "Parametres": {
+        "longueur": 55,
+        "longueur_seconde": 0,
+        "direction_x": 0,
+        "direction_y": 0,
+        "direction_z": 1,
+        "direction_orientation": 0,
+        "direction_type": 0,
+        "est_symetrique": 0
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 3,
+      "Type": "Sketch",
+      "Nom": "Sketch.2",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": 0,
+          "OrigineZ": 0,
+          "AxeXx": 0,
+          "AxeXy": 1,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": 0,
+          "AxeYz": 1
+        },
+        "Cercles": [],
+        "Lignes": [
+          {
+            "X1": 41.00000000000001,
+            "Y1": 39.99999999999999,
+            "X2": 43,
+            "Y2": 40,
+            "EstConstruction": false
+          },
+          {
+            "X1": 43,
+            "Y1": 40,
+            "X2": 43,
+            "Y2": 38.5,
+            "EstConstruction": false
+          },
+          {
+            "X1": 43,
+            "Y1": 38.5,
+            "X2": 41.00000000000001,
+            "Y2": 38.49999999999999,
+            "EstConstruction": false
+          },
+          {
+            "X1": 41.00000000000001,
+            "Y1": 38.49999999999999,
+            "X2": 41.00000000000001,
+            "Y2": 39.99999999999999,
+            "EstConstruction": false
+          },
+          {
+            "X1": 41.00000000000001,
+            "Y1": 35.49999999999999,
+            "X2": 43,
+            "Y2": 35.5,
+            "EstConstruction": false
+          },
+          {
+            "X1": 43,
+            "Y1": 35.5,
+            "X2": 43,
+            "Y2": 34,
+            "EstConstruction": false
+          },
+          {
+            "X1": 43,
+            "Y1": 34,
+            "X2": 41.00000000000001,
+            "Y2": 33.99999999999999,
+            "EstConstruction": false
+          },
+          {
+            "X1": 41.00000000000001,
+            "Y1": 33.99999999999999,
+            "X2": 41.00000000000001,
+            "Y2": 35.49999999999999,
+            "EstConstruction": false
+          },
+          {
+            "X1": 41.00000000000001,
+            "Y1": 31.999999999999993,
+            "X2": 43,
+            "Y2": 32,
+            "EstConstruction": false
+          },
+          {
+            "X1": 43,
+            "Y1": 32,
+            "X2": 43,
+            "Y2": 30.5,
+            "EstConstruction": false
+          },
+          {
+            "X1": 43,
+            "Y1": 30.5,
+            "X2": 41.00000000000001,
+            "Y2": 30.499999999999996,
+            "EstConstruction": false
+          },
+          {
+            "X1": 41.00000000000001,
+            "Y1": 30.499999999999996,
+            "X2": 41.00000000000001,
+            "Y2": 31.999999999999993,
+            "EstConstruction": false
+          }
+        ],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 41
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 3
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 1.5
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 43
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 1.5
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 2
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 15
+          },
+          {
+            "Type": "catCstTypeLength",
+            "Valeur": 1.5
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 4,
+      "Type": "Groove",
+      "Nom": "Groove.1",
+      "SketchReferences": [
+        "Sketch.2"
+      ],
+      "Parametres": {
+        "angle": 360
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 5,
+      "Type": "Sketch",
+      "Nom": "Sketch.5",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": 0,
+          "OrigineZ": 0,
+          "AxeXx": 1,
+          "AxeXy": 0,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": -1,
+          "AxeYz": 0
+        },
+        "Cercles": [
+          {
+            "CentreX": 0,
+            "CentreY": 0,
+            "Rayon": 37.5,
+            "EstConstruction": false
+          },
+          {
+            "CentreX": 0,
+            "CentreY": 0,
+            "Rayon": 37.5,
+            "EstConstruction": false
+          },
+          {
+            "CentreX": 0,
+            "CentreY": 0,
+            "Rayon": 37.5,
+            "EstConstruction": false
+          },
+          {
+            "CentreX": 0,
+            "CentreY": 0,
+            "Rayon": 37.5,
+            "EstConstruction": false
+          },
+          {
+            "CentreX": 0,
+            "CentreY": 0,
+            "Rayon": 43,
+            "EstConstruction": false
+          },
+          {
+            "CentreX": 0,
+            "CentreY": 0,
+            "Rayon": 43,
+            "EstConstruction": false
+          }
+        ],
+        "Lignes": [
+          {
+            "X1": 29.999999999999996,
+            "Y1": 22.500000000000007,
+            "X2": 29.999999999999996,
+            "Y2": -22.500000000000004,
+            "EstConstruction": false
+          },
+          {
+            "X1": -30,
+            "Y1": 22.5,
+            "X2": -30.000000000000007,
+            "Y2": -22.49999999999999,
+            "EstConstruction": false
+          },
+          {
+            "X1": 25,
+            "Y1": 27.95084971874737,
+            "X2": 25.000000000000004,
+            "Y2": 34.9857113690718,
+            "EstConstruction": false
+          },
+          {
+            "X1": -25,
+            "Y1": 27.95084971874737,
+            "X2": -25.000000000000004,
+            "Y2": 34.9857113690718,
+            "EstConstruction": false
+          },
+          {
+            "X1": 25,
+            "Y1": -27.95084971874737,
+            "X2": 25.000000000000004,
+            "Y2": -34.9857113690718,
+            "EstConstruction": false
+          },
+          {
+            "X1": -25,
+            "Y1": -27.95084971874737,
+            "X2": -25.000000000000004,
+            "Y2": -34.9857113690718,
+            "EstConstruction": false
+          }
+        ],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 30
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 5
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 37.5
+          },
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 43
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 6,
+      "Type": "Pocket",
+      "Nom": "Pocket.2",
+      "SketchReferences": [
+        "Sketch.5"
+      ],
+      "Parametres": {
+        "profondeur": 25,
+        "profondeur_seconde": 0,
+        "direction_x": -0,
+        "direction_y": -0,
+        "direction_z": 1,
+        "direction_orientation": 1,
+        "direction_type": 0,
+        "est_symetrique": 0
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 7,
+      "Type": "EdgeFillet",
+      "Nom": "EdgeFillet.1",
+      "SketchReferences": [],
+      "Parametres": {
+        "rayon": 3
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 8,
+      "Type": "EdgeFillet",
+      "Nom": "EdgeFillet.3",
+      "SketchReferences": [],
+      "Parametres": {
+        "rayon": 3
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 9,
+      "Type": "Sketch",
+      "Nom": "Sketch.6",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": 0,
+          "OrigineZ": 0,
+          "AxeXx": 1,
+          "AxeXy": 0,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": -1,
+          "AxeYz": 0
+        },
+        "Cercles": [
+          {
+            "CentreX": 0,
+            "CentreY": 0,
+            "Rayon": 36,
+            "EstConstruction": false
+          },
+          {
+            "CentreX": 0,
+            "CentreY": 0,
+            "Rayon": 36,
+            "EstConstruction": false
+          }
+        ],
+        "Lignes": [
+          {
+            "X1": 25.000000000000004,
+            "Y1": 25.903667693977233,
+            "X2": 25.000000000000004,
+            "Y2": -25.903667693977233,
+            "EstConstruction": false
+          },
+          {
+            "X1": -25.000000000000004,
+            "Y1": 25.903667693977233,
+            "X2": -25.000000000000004,
+            "Y2": -25.903667693977233,
+            "EstConstruction": false
+          }
+        ],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 25
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 36
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 10,
+      "Type": "Pocket",
+      "Nom": "Pocket.3",
+      "SketchReferences": [
+        "Sketch.6"
+      ],
+      "Parametres": {
+        "profondeur": 25,
+        "profondeur_seconde": 0,
+        "direction_x": -0,
+        "direction_y": -0,
+        "direction_z": 1,
+        "direction_orientation": 1,
+        "direction_type": 0,
+        "est_symetrique": 0
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 11,
+      "Type": "EdgeFillet",
+      "Nom": "EdgeFillet.4",
+      "SketchReferences": [],
+      "Parametres": {
+        "rayon": 6
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 12,
+      "Type": "Sketch",
+      "Nom": "Sketch.7",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 30,
+          "OrigineY": -3.552713678800501E-15,
+          "OrigineZ": 0,
+          "AxeXx": 1.5789838572446666E-16,
+          "AxeXy": 1,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": 0,
+          "AxeYz": 1
+        },
+        "Cercles": [
+          {
+            "CentreX": 0,
+            "CentreY": 13,
+            "Rayon": 8,
+            "EstConstruction": false
+          }
+        ],
+        "Lignes": [],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 13
+          },
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 8
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 13,
+      "Type": "Pocket",
+      "Nom": "Pocket.4",
+      "SketchReferences": [
+        "Sketch.7"
+      ],
+      "Parametres": {
+        "profondeur": 25,
+        "profondeur_seconde": 0,
+        "direction_x": 1,
+        "direction_y": -1.5789838572446666E-16,
+        "direction_z": 0,
+        "direction_orientation": 0,
+        "direction_type": 0,
+        "est_symetrique": 0
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 14,
+      "Type": "Chamfer",
+      "Nom": "Chamfer.1",
+      "SketchReferences": [],
+      "Parametres": {
+        "longueur": 0.5,
+        "angle": 45
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 15,
+      "Type": "Chamfer",
+      "Nom": "Chamfer.2",
+      "SketchReferences": [],
+      "Parametres": {
+        "longueur": 0.5,
+        "angle": 45
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 16,
+      "Type": "Sketch",
+      "Nom": "Sketch.10",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": 0,
+          "OrigineZ": 0,
+          "AxeXx": 0,
+          "AxeXy": 1,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": 0,
+          "AxeYz": 1
+        },
+        "Cercles": [],
+        "Lignes": [
+          {
+            "X1": 43,
+            "Y1": 55,
+            "X2": -43,
+            "Y2": 43.67788520748395,
+            "EstConstruction": false
+          },
+          {
+            "X1": -43,
+            "Y1": 55,
+            "X2": -43,
+            "Y2": 43.67788520748395,
+            "EstConstruction": false
+          }
+        ],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeAngle",
+            "Valeur": 7.5
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 17,
+      "Type": "Pocket",
+      "Nom": "Pocket.7",
+      "SketchReferences": [
+        "Sketch.10"
+      ],
+      "Parametres": {
+        "profondeur": 50,
+        "profondeur_seconde": 50,
+        "direction_x": -1,
+        "direction_y": -0,
+        "direction_z": -0,
+        "direction_orientation": 1,
+        "direction_type": 0,
+        "est_symetrique": 1
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 18,
+      "Type": "Chamfer",
+      "Nom": "Chamfer.4",
+      "SketchReferences": [],
+      "Parametres": {
+        "longueur": 10,
+        "angle": 8
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 19,
+      "Type": "Sketch",
+      "Nom": "Sketch.11",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": 0,
+          "OrigineZ": 0,
+          "AxeXx": 1,
+          "AxeXy": 0,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": 1,
+          "AxeYz": 0
+        },
+        "Cercles": [
+          {
+            "CentreX": -12.5,
+            "CentreY": 12.5,
+            "Rayon": 12.5,
+            "EstConstruction": false
+          },
+          {
+            "CentreX": 12.5,
+            "CentreY": 12.5,
+            "Rayon": 12.5,
+            "EstConstruction": false
+          }
+        ],
+        "Lignes": [],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeTangency",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeTangency",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 12.5
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 20,
+      "Type": "Pocket",
+      "Nom": "Pocket.8",
+      "SketchReferences": [
+        "Sketch.11"
+      ],
+      "Parametres": {
+        "profondeur": 60,
+        "profondeur_seconde": -49.5,
+        "direction_x": 0,
+        "direction_y": 0,
+        "direction_z": 1,
+        "direction_orientation": 0,
+        "direction_type": 0,
+        "est_symetrique": 0
+      },
+      "Refs": {},
+      "Geometrie": null
+    }
+  ],
+  "Plans": [],
+  "Relations": []
+}

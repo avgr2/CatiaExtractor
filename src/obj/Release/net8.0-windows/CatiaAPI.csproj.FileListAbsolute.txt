@@ -1,0 +1,16 @@
+C:\Temp\CatiaAPI_build_check\CatiaAPI.exe
+C:\Temp\CatiaAPI_build_check\CatiaAPI.deps.json
+C:\Temp\CatiaAPI_build_check\CatiaAPI.runtimeconfig.json
+C:\Temp\CatiaAPI_build_check\CatiaAPI.dll
+C:\Temp\CatiaAPI_build_check\CatiaAPI.pdb
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\src\obj\Release\net8.0-windows\CatiaAPI.csproj.AssemblyReference.cache
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\src\obj\Release\net8.0-windows\CatiaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\src\obj\Release\net8.0-windows\CatiaAPI.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\src\obj\Release\net8.0-windows\CatiaAPI.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\src\obj\Release\net8.0-windows\CatiaAPI.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\src\obj\Release\net8.0-windows\CatiaAPI.csproj.Up2Date
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\src\obj\Release\net8.0-windows\CatiaAPI.dll
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\src\obj\Release\net8.0-windows\refint\CatiaAPI.dll
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\src\obj\Release\net8.0-windows\CatiaAPI.pdb
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\src\obj\Release\net8.0-windows\CatiaAPI.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\src\obj\Release\net8.0-windows\ref\CatiaAPI.dll

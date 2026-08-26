@@ -1,0 +1,87 @@
+{
+  "Nom": "Cylinder",
+  "Fichier": "Cylinder.CATPart",
+  "Dimensions": {
+    "Cylinder\\PartBody\\Pad.1\\FirstLimit\\Length": 30,
+    "Cylinder\\PartBody\\Pad.1\\SecondLimit\\Length": 30,
+    "Cylinder\\PartBody\\Pad.1\\Sketch.1\\Radius.1\\Radius": 8,
+    "Cylinder\\PartBody\\Pad.1\\ThickThin1": 1,
+    "Cylinder\\PartBody\\Pad.1\\ThickThin2": 0,
+    "Cylinder\\PartBody\\Chamfer.1\\ChamferRibbon.1\\Length1": 1,
+    "Cylinder\\PartBody\\Chamfer.1\\ChamferRibbon.1\\Angle": 45
+  },
+  "Features": [
+    {
+      "Ordre": 1,
+      "Type": "Sketch",
+      "Nom": "Sketch.1",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": 0,
+          "OrigineZ": 0,
+          "AxeXx": 1,
+          "AxeXy": 0,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": 1,
+          "AxeYz": 0
+        },
+        "Cercles": [
+          {
+            "CentreX": 0,
+            "CentreY": 0,
+            "Rayon": 8,
+            "EstConstruction": false
+          }
+        ],
+        "Lignes": [],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 8
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 2,
+      "Type": "Pad",
+      "Nom": "Pad.1",
+      "SketchReferences": [
+        "Sketch.1"
+      ],
+      "Parametres": {
+        "longueur": 30,
+        "longueur_seconde": 30,
+        "direction_x": 0,
+        "direction_y": 0,
+        "direction_z": 1,
+        "direction_orientation": 0,
+        "direction_type": 0,
+        "est_symetrique": 1
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 3,
+      "Type": "Chamfer",
+      "Nom": "Chamfer.1",
+      "SketchReferences": [],
+      "Parametres": {
+        "longueur": 1,
+        "angle": 45
+      },
+      "Refs": {},
+      "Geometrie": null
+    }
+  ],
+  "Plans": [],
+  "Relations": []
+}

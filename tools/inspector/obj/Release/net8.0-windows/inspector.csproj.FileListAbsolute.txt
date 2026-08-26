@@ -1,0 +1,14 @@
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\tools\inspector\bin\Release\net8.0-windows\inspector.exe
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\tools\inspector\bin\Release\net8.0-windows\inspector.deps.json
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\tools\inspector\bin\Release\net8.0-windows\inspector.runtimeconfig.json
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\tools\inspector\bin\Release\net8.0-windows\inspector.dll
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\tools\inspector\bin\Release\net8.0-windows\inspector.pdb
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\tools\inspector\obj\Release\net8.0-windows\inspector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\tools\inspector\obj\Release\net8.0-windows\inspector.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\tools\inspector\obj\Release\net8.0-windows\inspector.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\tools\inspector\obj\Release\net8.0-windows\inspector.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\tools\inspector\obj\Release\net8.0-windows\inspector.dll
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\tools\inspector\obj\Release\net8.0-windows\refint\inspector.dll
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\tools\inspector\obj\Release\net8.0-windows\inspector.pdb
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\tools\inspector\obj\Release\net8.0-windows\inspector.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Desktop\CatiaAPI\tools\inspector\obj\Release\net8.0-windows\ref\inspector.dll

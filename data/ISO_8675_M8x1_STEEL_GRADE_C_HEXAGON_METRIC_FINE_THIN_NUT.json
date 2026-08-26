@@ -1,0 +1,461 @@
+{
+  "Nom": "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE",
+  "Fichier": "ISO_8675_M8x1_STEEL_GRADE_C_HEXAGON_METRIC_FINE_THIN_NUT.CATPart",
+  "Dimensions": {
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\PartBody\\Sketch.1\\Offset.21\\Offset": 14,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\PartBody\\Pad.1\\FirstLimit\\Length": 5,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\PartBody\\Pad.1\\SecondLimit\\Length": 0,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\PartBody\\Sketch.3\\Radius.30\\Radius": 45,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\PartBody\\Groove.1\\FirstAngle": 360,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\PartBody\\Groove.1\\SecondAngle": 0,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\PartBody\\Groove.1\\ThickThin1": 1,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\PartBody\\Groove.1\\ThickThin2": 0,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\PartBody\\Sketch.4\\Offset.45\\Offset": 7568,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\PartBody\\Sketch.4\\Offset.46\\Offset": 6667,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\PartBody\\Sketch.4\\Angle.48\\Angle": 30,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\PartBody\\Thread.1\\Diameter": 8,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\PartBody\\Thread.1\\Depth": 4,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\PartBody\\Thread.1\\Pitch": 1,
+    "Thread_dia": 40,
+    "m_thickness_max": 5,
+    "s_acrossflats_nom": 14,
+    "dw_min": 1163,
+    "P_thread_pitch": 3,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\e_acrosscorner_min": 1438,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\D_dia": 8,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\p_pitch": 1,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\D1_minor_dia": 9,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\threading": 4,
+    "ISO 8675 NUT M8x1 STEEL GRADE C HEXAGON THIN METRIC FINE\\Geometrical Set.1\\Plane.1\\Offset": 25
+  },
+  "Features": [
+    {
+      "Ordre": 1,
+      "Type": "Sketch",
+      "Nom": "Sketch.1",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": 0,
+          "OrigineZ": 0,
+          "AxeXx": 0,
+          "AxeXy": 1,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": 0,
+          "AxeYz": 1
+        },
+        "Cercles": [
+          {
+            "CentreX": 0,
+            "CentreY": 0,
+            "Rayon": 8.08290376865476,
+            "EstConstruction": true
+          },
+          {
+            "CentreX": -6.999999999999999,
+            "CentreY": -4.04145188432738,
+            "Rayon": 8.08290376865476,
+            "EstConstruction": true
+          },
+          {
+            "CentreX": 7,
+            "CentreY": 4.04145188432738,
+            "Rayon": 8.08290376865476,
+            "EstConstruction": true
+          }
+        ],
+        "Lignes": [
+          {
+            "X1": 7,
+            "Y1": -4.04145188432738,
+            "X2": 7,
+            "Y2": 4.04145188432738,
+            "EstConstruction": false
+          },
+          {
+            "X1": 7,
+            "Y1": 4.04145188432738,
+            "X2": 8.806005563118142E-16,
+            "Y2": 8.08290376865476,
+            "EstConstruction": false
+          },
+          {
+            "X1": 8.806005563118142E-16,
+            "Y1": 8.08290376865476,
+            "X2": -6.999999999999999,
+            "Y2": 4.04145188432738,
+            "EstConstruction": false
+          },
+          {
+            "X1": -6.999999999999999,
+            "Y1": 4.04145188432738,
+            "X2": -6.999999999999999,
+            "Y2": -4.04145188432738,
+            "EstConstruction": false
+          },
+          {
+            "X1": -6.999999999999999,
+            "Y1": -4.04145188432738,
+            "X2": -4.768667709163605E-16,
+            "Y2": -8.08290376865476,
+            "EstConstruction": false
+          },
+          {
+            "X1": -4.768667709163605E-16,
+            "Y1": -8.08290376865476,
+            "X2": 7,
+            "Y2": -4.04145188432738,
+            "EstConstruction": false
+          },
+          {
+            "X1": 0,
+            "Y1": 0,
+            "X2": 7,
+            "Y2": 0,
+            "EstConstruction": true
+          }
+        ],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 14
+          },
+          {
+            "Type": "catCstTypeConcentricity",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 2,
+      "Type": "Pad",
+      "Nom": "Pad.1",
+      "SketchReferences": [
+        "Sketch.1"
+      ],
+      "Parametres": {
+        "longueur": 5,
+        "longueur_seconde": 0,
+        "direction_x": 1,
+        "direction_y": 0,
+        "direction_z": 0,
+        "direction_orientation": 0,
+        "direction_type": 0,
+        "est_symetrique": 0
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 3,
+      "Type": "Sketch",
+      "Nom": "Sketch.3",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": 0,
+          "OrigineZ": 0,
+          "AxeXx": 0,
+          "AxeXy": 1,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": 0,
+          "AxeYz": 1
+        },
+        "Cercles": [
+          {
+            "CentreX": 0,
+            "CentreY": 0,
+            "Rayon": 4.5,
+            "EstConstruction": false
+          }
+        ],
+        "Lignes": [],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeRadius",
+            "Valeur": 4.5
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 4,
+      "Type": "Pocket",
+      "Nom": "Pocket.1",
+      "SketchReferences": [
+        "Sketch.3"
+      ],
+      "Parametres": {
+        "profondeur": 20,
+        "profondeur_seconde": 0,
+        "direction_x": 1,
+        "direction_y": 0,
+        "direction_z": 0,
+        "direction_orientation": 0,
+        "direction_type": 0,
+        "est_symetrique": 0
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 5,
+      "Type": "Sketch",
+      "Nom": "Sketch.4",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": {
+        "Placement": {
+          "OrigineX": 0,
+          "OrigineY": 0,
+          "OrigineZ": 0,
+          "AxeXx": 1,
+          "AxeXy": 0,
+          "AxeXz": 0,
+          "AxeYx": 0,
+          "AxeYy": 1,
+          "AxeYz": 0
+        },
+        "Cercles": [],
+        "Lignes": [
+          {
+            "X1": -0.1924500897298756,
+            "Y1": 6.666666666666666,
+            "X2": 0.32817804774989145,
+            "Y2": 7.568421052631579,
+            "EstConstruction": false
+          },
+          {
+            "X1": 0.32817804774989145,
+            "Y1": 7.568421052631579,
+            "X2": -0.1924500897298727,
+            "Y2": 7.568421052631578,
+            "EstConstruction": false
+          },
+          {
+            "X1": -0.1924500897298727,
+            "Y1": 7.568421052631578,
+            "X2": -0.1924500897298756,
+            "Y2": 6.666666666666666,
+            "EstConstruction": false
+          },
+          {
+            "X1": 5.192450089729875,
+            "Y1": 6.666666666666666,
+            "X2": 4.6718219522501085,
+            "Y2": 7.568421052631579,
+            "EstConstruction": false
+          },
+          {
+            "X1": 4.6718219522501085,
+            "Y1": 7.568421052631579,
+            "X2": 5.192450089729875,
+            "Y2": 7.568421052631578,
+            "EstConstruction": false
+          },
+          {
+            "X1": 5.192450089729875,
+            "Y1": 7.568421052631578,
+            "X2": 5.192450089729875,
+            "Y2": 6.666666666666666,
+            "EstConstruction": false
+          }
+        ],
+        "Arcs": [],
+        "Axes": [],
+        "Contraintes": [
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeParallelism",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeOn",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 7.568421052631579
+          },
+          {
+            "Type": "catCstTypeDistance",
+            "Valeur": 6.666666666666666
+          },
+          {
+            "Type": "catCstTypeAngle",
+            "Valeur": 30.000000000000004
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          },
+          {
+            "Type": "catCstTypeSymmetry",
+            "Valeur": null
+          }
+        ]
+      }
+    },
+    {
+      "Ordre": 6,
+      "Type": "Groove",
+      "Nom": "Groove.1",
+      "SketchReferences": [
+        "Sketch.4"
+      ],
+      "Parametres": {
+        "angle": 360
+      },
+      "Refs": {},
+      "Geometrie": null
+    },
+    {
+      "Ordre": 7,
+      "Type": "__ComObject",
+      "Nom": "Thread.1",
+      "SketchReferences": [],
+      "Parametres": {},
+      "Refs": {},
+      "Geometrie": null
+    }
+  ],
+  "Plans": [
+    {
+      "Nom": "Plane.1",
+      "Type": "HybridShapePlaneOffset",
+      "Offset": 2.5,
+      "ElementReference": null
+    }
+  ],
+  "Relations": [
+    {
+      "Nom": "Formula.13",
+      "Formule": "s_acrossflats_nom "
+    },
+    {
+      "Nom": "Formula.14",
+      "Formule": "m_thickness_max "
+    },
+    {
+      "Nom": "Formula.15",
+      "Formule": "D1_minor_dia /2"
+    },
+    {
+      "Nom": "Formula.18",
+      "Formule": "m_thickness_max /2"
+    },
+    {
+      "Nom": "Formula.19",
+      "Formule": "e_acrosscorner_min /1.9"
+    },
+    {
+      "Nom": "Formula.20",
+      "Formule": "s_acrossflats_nom /2.1"
+    },
+    {
+      "Nom": "Formula.21",
+      "Formule": "D_dia "
+    },
+    {
+      "Nom": "Formula.22",
+      "Formule": "threading "
+    }
+  ]
+}

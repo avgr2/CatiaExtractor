@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="INFITF">
+      <HintPath>C:\Program Files\Dassault Systemes\B19\win_b64\code\bin\INFITF.dll</HintPath>
+    </Reference>
+    <Reference Include="MECMOD">
+      <HintPath>C:\Program Files\Dassault Systemes\B19\win_b64\code\bin\MECMOD.dll</HintPath>
+    </Reference>
+    <Reference Include="PARTITF">
+      <HintPath>C:\Program Files\Dassault Systemes\B19\win_b64\code\bin\PARTITF.dll</HintPath>
+    </Reference>
+    <Reference Include="NAVIGATORITF">
+      <HintPath>C:\Program Files\Dassault Systemes\B19\win_b64\code\bin\NAVIGATORITF.dll</HintPath>
+    </Reference>
+    <Reference Include="KWEITF">
+      <HintPath>C:\Program Files\Dassault Systemes\B19\win_b64\code\bin\KWEITF.dll</HintPath>
+    </Reference>
+    <Reference Include="PSITF">
+      <HintPath>C:\Program Files\Dassault Systemes\B19\win_b64\code\bin\PSITF.dll</HintPath>
+    </Reference>
+    <Reference Include="KnowledgewareTypeLib">
+      <HintPath>C:\Program Files\Dassault Systemes\B19\win_b64\code\bin\KnowledgewareTypeLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualBasic" Version="10.3.0" />
+    <PackageReference Include="System.Text.Json" Version="10.0.9" />
+  </ItemGroup>
+
+</Project>
